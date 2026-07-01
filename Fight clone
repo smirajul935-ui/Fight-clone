@@ -70,5 +70,11 @@
         "key": "mrking",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "25c437ba87e0dddc",
+        "key": "khanki",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
