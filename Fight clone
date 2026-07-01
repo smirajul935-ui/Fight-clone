@@ -64,5 +64,11 @@
         "key": "taver2",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "b5b861dcfb5a0bb5",
+        "key": "mrking",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
