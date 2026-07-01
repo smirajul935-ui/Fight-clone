@@ -82,5 +82,11 @@
         "key": "khanki",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "0ed02a4244cbec8e",
+        "key": "prince",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
