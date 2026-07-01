@@ -28,5 +28,11 @@
         "key": "2222",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "face00466ddeb799",
+        "key": "sufu",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
