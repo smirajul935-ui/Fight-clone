@@ -58,5 +58,11 @@
         "key": "sufu2",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "6619afb1b3ff998b",
+        "key": "taver2",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
