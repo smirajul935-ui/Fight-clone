@@ -52,5 +52,11 @@
         "key": "rex",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "BE2210E2A11142B9",
+        "key": "sufu2",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
