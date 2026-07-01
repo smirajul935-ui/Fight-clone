@@ -40,5 +40,11 @@
         "key": "billa",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "eb6e0683ac36c146",
+        "key": "tevar",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
