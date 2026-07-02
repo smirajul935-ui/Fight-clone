@@ -100,5 +100,11 @@
         "key": "miraj",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "f44e03650e8371e3",
+        "key": "Maddy",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
