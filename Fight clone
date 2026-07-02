@@ -94,5 +94,11 @@
         "key": "mantri",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "08a235866ae5a29b",
+        "key": "miraj",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
