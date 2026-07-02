@@ -106,5 +106,11 @@
         "key": "Maddy",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "ebd503d74d75e929",
+        "key": "Prince1",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
