@@ -88,5 +88,11 @@
         "key": "prince",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "d8b602dbab16b518",
+        "key": "mantri",
+        "expirydate": "15-08-2027",
+        "Allowoffline": false
     }
 ]
