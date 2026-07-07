@@ -130,5 +130,11 @@
         "key": "syco",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "f3583c19f692b86d",
+        "key": "doner",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
