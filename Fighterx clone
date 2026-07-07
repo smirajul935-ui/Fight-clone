@@ -124,5 +124,11 @@
         "key": "Prince",
         "expirydate": "15-08-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "8557217fd85573cf",
+        "key": "syco",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
