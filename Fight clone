@@ -142,5 +142,11 @@
         "key": "Robert1",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "bb2f43850a5b36fc",
+        "key": "Sycosmg",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
