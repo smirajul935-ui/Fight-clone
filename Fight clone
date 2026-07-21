@@ -142,5 +142,11 @@
         "key": "Sycosmg",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "3473a1d6925719cc",
+        "key": "sk",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
