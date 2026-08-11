@@ -154,5 +154,11 @@
         "key": "viraj",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "bf5abf46959cb877",
+        "key": "AR",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
