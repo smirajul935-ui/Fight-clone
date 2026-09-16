@@ -172,5 +172,11 @@
         "key": "Rohan",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "bf68ecd208ddb1ae",
+        "key": "king",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
