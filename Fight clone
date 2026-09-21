@@ -202,5 +202,11 @@
         "key": "devil",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "37e40dca60292df4",
+        "key": "chacha",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
