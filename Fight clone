@@ -220,5 +220,11 @@
         "key": "Notty",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "c758e8a270ec74d5",
+        "key": "smarty",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
